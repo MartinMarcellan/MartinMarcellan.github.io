@@ -68,6 +68,6 @@ For the stages of the last week the model does not give many chances to breakawa
 
 ![Imagen del perfil de la etapa 17](/assets/images/ET17.jpeg) 
 
-The rest of the stages of the final week are suitable for sprinters except the twentieth one, which will be the las chance for a change in the yellow jersey classification. Because of this the model does not give many chances to breakaways despite the large number of climbs throughout the stage.
+The rest of the stages of the final week are suitable for sprinters except the twentieth one, which will be the last chance for a change in the yellow jersey classification. Because of this the model does not give many chances to breakaways despite the large number of climbs throughout the stage.
 
 ![Imagen del perfil de la etapa 20](/assets/images/ET20.jpeg) 
