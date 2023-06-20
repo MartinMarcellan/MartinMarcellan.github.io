@@ -1,9 +1,9 @@
 # Data science in cycling
 
-## Classification: Is the stage suitable for the breakaway to arrive?
+## Classification: is the stage suitable for the breakaway to arrive?
 The goal of this classification project is to predict whether the breakaway survives and arrives to the finish line, or it is absorbed by the bunch. The breakaways are the usual way the humble teams get wins in world tour races, so predicting which stages are more suitable for a breakaway to arrive can have a big impact on the tactics of a team, especially in a grand tour where the energy management is crucial.
 
-To make a prediction a definition of breakaway must be given: Any rider or group of riders that get away from the bunch at a distance bigger than 20 kilometres from the finish line will be considered as breakaway. This means that if, for example, a general classification rider manages to make a solo ride attacking 21 kilometres away from the finish it will be classified as a breakaway win for this classification model.
+To make a prediction a definition of breakaway must be given: any rider or group of riders that get away from the bunch at a distance bigger than 20 kilometres from the finish line will be considered as breakaway. This means that if, for example, a general classification rider manages to make a solo ride attacking 21 kilometres away from the finish it will be classified as a breakaway win for this classification model.
 
 The independent variables used to make the predictions are the following ones
 -	Distance of the stage measured in kilometres.
@@ -34,7 +34,7 @@ The following two stages are the first ones with predicted breakaway win. Stage 
 
 ![Imagen del perfil de la etapa 5](/assets/images/ET5.jpeg)  
 
-The sixth stage has also two possible scenarios for a successful breakaway:
+The sixth stage has also two possible scenarios for a successful breakaway
 -	Early breakaway manages to arrive like it did in a similar stage in 2015.
 -	A strong group of not general classification contender climbers goes away from the peloton in Tourmalet.
 
@@ -46,7 +46,7 @@ The final stage of the first week carries the riders from Saint-Léonerd-de-Nobl
 
 ![Imagen del perfil de la etapa 9](/assets/images/ET9.jpeg) 
 
-Two of the three first stages of the second week have the highest breakaway probabilities of the race, both are quite similar: Hilly stages that finish with large downhill or flat sections and both have around 3000 meters of climbing. The first kilometres of these stages are suitable form a group of punchy riders.
+Two of the three first stages of the second week have the highest breakaway probabilities of the race, both are quite similar: hilly stages that finish with large downhill or flat sections and both have around 3000 meters of climbing. The first kilometres of these stages are suitable form a group of punchy riders.
 
 ![Imagen del perfil de la etapa 12](/assets/images/ET12.jpeg) 
 
@@ -56,7 +56,7 @@ Stage 13 finishes in the long climb of Grand Colombier which leaves the only pos
 
 ![Imagen del perfil de la etapa 13](/assets/images/ET13.jpeg) 
 
-In contrast, the next stage is suitable for long range attacks in the same way the stage featuring Col de Marie Blanque was: The hardest climb of the day is crowned 13 kilometres away from Morzine, the town where the finish is located. Leaving Two possible scenarios for a breakaway win: The early break or the long-range attack from a GC contender. 
+In contrast, the next stage is suitable for long range attacks in the same way the stage featuring Col de Marie Blanque was: the hardest climb of the day is crowned 13 kilometres away from Morzine, the town where the finish is located. Leaving Two possible scenarios for a breakaway win: the early break or the long-range attack from a GC contender. 
 
 ![Imagen del perfil de la etapa 14](/assets/images/ET14.jpeg) 
 
