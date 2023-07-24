@@ -76,3 +76,20 @@ For the stages of the last week the model does not give many chances to breakawa
 The rest of the stages of the final week are suitable for sprinters except the twentieth one, which will be the last chance for a change in the yellow jersey classification. Because of this the model does not give many chances to breakaways despite the large number of climbs throughout the stage.
 
 ![Imagen del perfil de la etapa 20](/assets/images/ET20.jpeg) 
+
+### Conclusions
+
+The model has performed with the expected accuracy as it predicted correctly 17 out of 20 stages a success rate of 85%. 
+
+In the first week the model predicted correctly all nine stages, there were only three stages with predicted breakaway win: 
+  -	The fifth stage finishing in Laruns was won by Jai Hindley who was part of the break formed in the first part of the stage and managed to maintain the difference despite the attack of Jonas Vingegaard in the last climb of Col de Marie Blanque.
+  -	Col du Tourmalet was decisive in the sixth stage, Jonas Vingegaard launched an attack more than 20 kilometres away from the finish that allowed him and Tadej Pocagar to join the breakaway. In the end Pogacar managed to drop Vingegaard and secure the second breakaway win of the tour.
+  - The last breakaway win of the first week arrived in the nineth stage. Michael Woods was the strongest rider of the break which was formed in the first kilometres of the day.
+
+The second week of the Tour was predicted to be a very suitable week for the breakaways and so it was, the break managed to stay away from the peloton in stages ten, twelve, thirteen and fifteen. The first error of the model came in the fourteenth stage which was won by Carlos Rodriguez who was not part of the break. 
+
+The prediction error can be explained strategy Team Jumbo Visma adopted for this stage, one of the hardest of this years Tour: Jumbo Visma’s goal was to make the stage the hardest possible in order to repeat what they did in the hardest stages of last years tour, distance Pogacar as Vingegaard is stronger in long and hard days. This tactic resulted in not letting a quality break (with riders like Thibaut Pinot, Guillaume Martin, Mikel Landa, Michael Woods, Julian Alaphilippe, Tobias Halland Johannessen, Giulio Ciccone and many other) gain enough time on the peloton to compete for the stage.
+
+In the last week, the only stage which had a breakaway win predicted was won by the Austrian rider Felix Gall who came from the break. The model made two errors predicting not breakaway wins in the next two stages.
+  - From Moûtiers to Bourg-en-Bresse, the eighteenth stage was expected to finish in a bunch sprint by the model but a break with three rouleurs such as Victor Campenaerts, Jonas Abrahamsen and Kasper Asgreen were able to steal the win. In the middle of the stage Pascal Eenkhoorn joined these three and played a key role in keeping the peloton away being able to maintain the break alive with an advantage over the peloton of less than a minute in most of the last kilometres.
+  - The next day, after a really hard fight to form the breakaway, a big group including some of the main sprinters escaped from the peloton and made it to the finishing town of Poligny where Matej Mohoric won his first stage in this years tour.
