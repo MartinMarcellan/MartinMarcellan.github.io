@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+Aqui va un indice que puede evitar el problema del titulo
 ## Classification: is the stage suitable for the breakaway to arrive?
 ### Model description
 The goal of this classification project is to predict whether the breakaway survives and arrives to the finish line, or it is absorbed by the bunch. The breakaways are the usual way the humble teams get wins in world tour races, so predicting which stages are more suitable for a breakaway to arrive can have a big impact on the tactics of a team, especially in a grand tour where the energy management is crucial.
