@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Classification: is the stage suitable for the breakaway to arrive?
-## Model description
+## Classification: is the stage suitable for the breakaway to arrive?
+### Model description
 The goal of this classification project is to predict whether the breakaway survives and arrives to the finish line, or it is absorbed by the bunch. The breakaways are the usual way the humble teams get wins in world tour races, so predicting which stages are more suitable for a breakaway to arrive can have a big impact on the tactics of a team, especially in a grand tour where the energy management is crucial.
 
 To make a prediction a definition of breakaway must be given: any rider or group of riders that get away from the bunch at a distance bigger than 20 kilometres from the finish line will be considered as breakaway. This means that if, for instance, a general classification rider manages to make a solo ride attacking 21 kilometres away from the finish it will be classified as a breakaway win for this classification model.
@@ -19,14 +19,14 @@ The independent variables used to make the predictions are the following ones
 Regarding to the race name standardization, a standard name has been assigned to each race to prevent races that got their name changed be considered as different races. For example, the Benelux Tour, which was called Eneco Tour from 2005 to 2015, BinckBank Tour from 2016 to 2020 and Renewi Tour in 2023, will be called Benelux Tour as in 2021 to train the model.
 
 The adjusted model has an accuracy of 82% which I believe is quite acceptable knowing that factors like the quality of the riders in the race, the strength or interest of the sprinters’ teams in keeping the breakaway controlled or the quality and quantity of the riders in the breakaway are not considered.
-## Prediction
+### Prediction
 As an example, here are the predictions for the 2023 Tour de France:
 
 ![Imagen con el grafico de las predicciones](/assets/images/Prediccion.png)
 
 As it can be seen, there are many stages that have high probability of a breakaway win, so stage hunters should target stages like stage 10, stage 12 or stage 14 which are the most probable ones.
 
-## Prediction analysis
+### Prediction analysis
 The prediction does not give many hopes to the breakaway in the first four racing days as the teams aiming for the leader jersey will not allow big breakaway groups. The second stage, however, has a remarkable breakaway probability, this is because of the presence of the climb of Jaizkibel which will be crowned at only 17.5 kilometres away from the finish line. The possibility of a small strong group being formed during the climb at more than 20 kilometres away from the line is not negligible. All the stage profile photos are taken from the [Tour de France website](https://www.letour.fr/en/).
 
 ![Imagen del perfil de la etapa 2](/assets/images/ET2.jpeg) 
@@ -79,7 +79,7 @@ The rest of the stages of the final week are suitable for sprinters except the t
 
 ![Imagen del perfil de la etapa 20](/assets/images/ET20.jpeg) 
 
-## Conclusions
+### Conclusions
 
 The model has performed with the expected accuracy as it predicted correctly 17 out of 20 stages a success rate of 85%. 
 
