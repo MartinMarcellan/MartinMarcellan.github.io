@@ -2,7 +2,7 @@
 layout: default
 ---
 
-** Index **
+**Index**
 1. Classification: is the stage suitable for the breakaway to arrive?
 2. Regression: predicting individual time trial performances
 3. Ranking: Sprinter ranking
