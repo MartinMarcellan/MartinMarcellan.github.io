@@ -2,4 +2,4 @@
 
 Clasification, regression, rankings and data visualization for cycling
 
-[Analysis in this page](martinmarcellan.github.io).
+[Analysis in this page](https://martinmarcellan.github.io/)
