@@ -3,7 +3,17 @@ layout: default
 ---
 
 **Index**
-1. Classification: is the stage suitable for the breakaway to arrive? [hola](#conclusions)
+
+- [1. Classification: is the stage suitable for the breakaway to arrive?](#1.-classification:-is-the-stage-suitable-for-the-breakaway-to-arrive?)
+
+   - [1.1 Model description](#model-description)
+   
+   - [1.2 Prediction (Tour de France 2023)](#prediction)
+   
+   - [1.3 Prediction Analysis](#prediction-analysis)
+   
+   - [1.4 Conclusions](#conclusions)
+   
 2. Regression: predicting individual time trial performances
 3. Ranking: Sprinter ranking
 4. Data visualization
