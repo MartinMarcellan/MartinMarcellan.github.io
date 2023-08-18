@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is a page dedicated to show some of many applications data science can have in professional cycling as it is shown in the index below. The author of the web is Martin Fernandez and you can reach me through email at <martinmarcellan@gmail.com> and in linkedin following the link to [my profile](www.linkedin.com/in/martin-fernández-marcellán-b30890206).
+This is a page dedicated to show some of many applications data science can have in professional cycling as it is shown in the index below. The author of the web is Martin Fernandez and you can reach me through email at <martinmarcellan@gmail.com> and in linkedin following the link to [my profile](https://www.linkedin.com/in/martin-fernández-marcellán-b30890206).
 
 **Index**
 
