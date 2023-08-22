@@ -9,18 +9,20 @@ This is a page dedicated to show some of many applications data science can have
 - [1. Classification: is the stage suitable for the breakaway to arrive?](#1-classification-is-the-stage-suitable-for-the-breakaway-to-arrive)
 
    - [1.1 Model description](#model-description)
+ 
+   - [1.2 Predictions](#predictions)
    
-      - [1.1.1 Prediction for Tour de France 2023](#prediction-tour-2023)
+      - [1.2.1 Tour de France 2023](#prediction-tour-2023)
    
-      - [1.1.2 Tour 2023 prediction Analysis](#prediction-analysis-tour-2023)
+         - [1.2.1.1 Tour 2023 prediction Analysis](#prediction-analysis-tour-2023)
    
-      - [1.1.3 Conclusions for Tour 2023 predictions](#conclusions-tour-2023)
+         - [1.2.1.2 Conclusions for Tour 2023 predictions](#conclusions-tour-2023)
   
-      - [1.2.1 Prediction for Vuelta a España 2023](#prediction-vuelta-2023)
+      - [1.2.2 Vuelta a España 2023](#prediction-vuelta-2023)
     
-      - [1.2.2 Vuelta 2023 prediction analysis](#prediction-analysis-vuelta-2023)
+         - [1.2.2.1 Vuelta 2023 prediction analysis](#prediction-analysis-vuelta-2023)
     
-      - [1.2.3 Conclusions for Vuelta 2023 predictions](#conclusions-vuelta-2023)
+         - [1.2.2.2 Conclusions for Vuelta 2023 predictions](#conclusions-vuelta-2023)
    
 2. Regression: predicting individual time trial performances
 3. Ranking: Sprinter ranking
@@ -43,6 +45,7 @@ The independent variables used to make the predictions are the following ones
 Regarding to the race name standardization, a standard name has been assigned to each race to prevent races that got their name changed be considered as different races. For example, the Benelux Tour, which was called Eneco Tour from 2005 to 2015, BinckBank Tour from 2016 to 2020 and Renewi Tour in 2023, will be called Benelux Tour as in 2021 to train the model.
 
 The adjusted model has an accuracy of 82% which I believe is quite acceptable knowing that factors like the quality of the riders in the race, the strength or interest of the sprinters’ teams in keeping the breakaway controlled or the quality and quantity of the riders in the breakaway are not considered.
+## Predictions
 ### Prediction Tour 2023
 As an example, here are the predictions for the 2023 Tour de France:
 
