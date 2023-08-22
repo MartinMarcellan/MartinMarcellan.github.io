@@ -10,11 +10,17 @@ This is a page dedicated to show some of many applications data science can have
 
    - [1.1 Model description](#model-description)
    
-   - [1.2 Prediction (Tour de France 2023)](#prediction)
+      - [1.1.1 Prediction for Tour de France 2023](#prediction-tour-2023)
    
-   - [1.3 Prediction Analysis](#prediction-analysis)
+      - [1.1.2 Tour 2023 prediction Analysis](#prediction-analysis-tour-2023)
    
-   - [1.4 Conclusions](#conclusions)
+      - [1.1.3 Conclusions for Tour 2023 predictions](#conclusions-tour-2023)
+  
+      - [1.2.1 Prediction for Vuelta a España 2023](#prediction-vuelta-2023)
+    
+      - [1.2.2 Vuelta 2023 prediction analysis](#prediction-analysis-vuelta-2023)
+    
+      - [1.2.3 Conclusions for Vuelta 2023 predictions](#conclusions-vuelta-2023)
    
 2. Regression: predicting individual time trial performances
 3. Ranking: Sprinter ranking
@@ -37,14 +43,14 @@ The independent variables used to make the predictions are the following ones
 Regarding to the race name standardization, a standard name has been assigned to each race to prevent races that got their name changed be considered as different races. For example, the Benelux Tour, which was called Eneco Tour from 2005 to 2015, BinckBank Tour from 2016 to 2020 and Renewi Tour in 2023, will be called Benelux Tour as in 2021 to train the model.
 
 The adjusted model has an accuracy of 82% which I believe is quite acceptable knowing that factors like the quality of the riders in the race, the strength or interest of the sprinters’ teams in keeping the breakaway controlled or the quality and quantity of the riders in the breakaway are not considered.
-## Prediction
+### Prediction Tour 2023
 As an example, here are the predictions for the 2023 Tour de France:
 
 ![Imagen con el grafico de las predicciones](/assets/images/Prediccion.png)
 
 As it can be seen, there are many stages that have high probability of a breakaway win, so stage hunters should target stages like stage 10, stage 12 or stage 14 which are the most probable ones.
 
-## Prediction analysis
+### Prediction analysis Tour 2023
 The prediction does not give many hopes to the breakaway in the first four racing days as the teams aiming for the leader jersey will not allow big breakaway groups. The second stage, however, has a remarkable breakaway probability, this is because of the presence of the climb of Jaizkibel which will be crowned at only 17.5 kilometres away from the finish line. The possibility of a small strong group being formed during the climb at more than 20 kilometres away from the line is not negligible. All the stage profile photos are taken from the [Tour de France website](https://www.letour.fr/en/).
 
 ![Imagen del perfil de la etapa 2](/assets/images/ET2.jpeg) 
@@ -97,7 +103,7 @@ The rest of the stages of the final week are suitable for sprinters except the t
 
 ![Imagen del perfil de la etapa 20](/assets/images/ET20.jpeg) 
 
-## Conclusions
+### Conclusions Tour 2023
 
 The model has performed with the expected accuracy as it predicted correctly 17 out of 20 stages a success rate of 85%. 
 
@@ -113,3 +119,48 @@ The prediction error can be explained by the strategy Team Jumbo Visma adopted f
 In the last week, the only stage which had a breakaway win predicted was won by the Austrian rider Felix Gall who came from the break. The model made two errors predicting not breakaway wins in the next two stages.
   - From Moûtiers to Bourg-en-Bresse, the eighteenth stage was expected to finish in a bunch sprint by the model but a break with three rouleurs such as Victor Campenaerts, Jonas Abrahamsen and Kasper Asgreen were able to steal the win. In the middle of the stage Pascal Eenkhoorn joined these three and played a key role in keeping the peloton away being able to maintain the break alive with an advantage over the peloton of less than a minute in most of the last kilometres.
   - The next day, after a really hard fight to form the breakaway, a big group including some of the main sprinters escaped from the peloton and made it to the finishing town of Poligny where Matej Mohoric won the stage.
+
+### Prediction Vuelta 2023
+
+The predictions for the 2023 edition of the Vuelta a España are shown below.
+
+![Imagen con el grafico de las predicciones](/assets/images/vuelta23.png)
+
+In first sight, it seems like fewer breakaway wins are predicted in this year’s Vuelta compared with the 2023 Tour de France. 
+
+### Prediction analysis Vuelta 2023
+
+In first sight, it seems like fewer breakaway wins are predicted in this year’s Vuelta compared with the 2023 Tour de France. 
+
+The model does not predict a breakaway win until the third stage which finishes in the climb of Anisal in Andorra. As mentioned in the Tour 2023 predictions, this stage is suitable for early breakaways and for any rider who is able to scape from the peloton in the penultimate climb of Coll d’Ordino. All the stage profile photos shown in this page are taken from the [Vuelta de France website](https:// www.lavuelta.es/en/).
+
+![Imagen del perfil de la etapa 3](/assets/images/vuelta_et3.png)
+
+The following stage is the second with less breakaway win probability, this is due to the flatness of it. A sprint finish between the fastest riders of the peloton is expected.
+
+![Imagen del perfil de la etapa 4](/assets/images/vuelta_et4.png)
+
+The stages which are most suitable for a breakaway win are all from the end of the first week. The first of those three stages is the sixth one which ends at the astrophysics observatory in Javalambre. This stage has more than 4000 meters of vertical climbing and has a quite hard beginning which allows a powerful break to form.
+
+![Imagen del perfil de la etapa 6](/assets/images/vuelta_et6.png)
+
+The eighth stage finishing in the town of Xorret de Catí which is a classic finishing town where breakaways tend to arrive thanks to the broken profile of the stage. 
+
+![Imagen del perfil de la etapa 8](/assets/images/vuelta_et8.png)
+
+The next stage finishing in Caravaca de la Cruz is the one that is predicted to be the most suitable for the breakaway, the final climb is not hard enough for the general classification contenders to make differences so is probable that they will let the break take the win.
+
+![Imagen del perfil de la etapa 9](/assets/images/vuelta_et9.png)
+
+Stages eleven to twenty have similar probabilities which oscillate between 40% and 60%, that makes the stages highly unpredictable and difficult to predict. One of the most difficult stages to predict is the penultimate one, the predictor does not give the break many chances (only 30%) but knowing that is the last chance for the general classification contenders to change things and that the profile of the stage is highly suitable for long range attacks, the stage will be difficult to predict.
+
+![Imagen del perfil de la etapa 20](/assets/images/vuelta_et20.png)
+
+The last stage of the Vuelta is the easiest one to predict as 96% of chances are for a non-breakaway win, in this case this is due to the tradition of the peloton to end the grand tours with a clam stage finishing in a mass sprint.
+
+![Imagen del perfil de la etapa 21](/assets/images/vuelta_et21.png)
+
+
+### Conclusions Vuelta 2023
+
+Conclusions will be available once the race finishes.
