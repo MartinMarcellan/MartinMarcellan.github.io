@@ -108,7 +108,7 @@ The rest of the stages of the final week are suitable for sprinters except the t
 
 ### Conclusions Tour 2023
 
-The model has performed with the expected accuracy as it predicted correctly 17 out of 20 stages a success rate of 85%. 
+The model has performed with the expected accuracy as it predicted correctly 17 out of 20 stages a **success rate of 85%**. 
 
 In the first race week the model predicted correctly all nine stages, there were only three stages with predicted breakaway win: 
   -	The fifth stage finishing in Laruns was won by Jai Hindley who was part of the break formed in the first part of the stage and managed to maintain the difference despite the attack of Jonas Vingegaard in the last climb of Col de Marie Blanque.
