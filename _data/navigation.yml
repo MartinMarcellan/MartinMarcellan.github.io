@@ -1,0 +1,12 @@
+main:
+  - title: "Breakaway predictor"
+    url: /breakaway/
+  - title: "Time Trial predictor"
+    url: /itt/
+  - title: "Sprinter Ranking"
+    url: /sprinters/
+  - title: "Data Visualization"
+    url: /visualization/
+  - title: "About"
+    url: /about/
+
