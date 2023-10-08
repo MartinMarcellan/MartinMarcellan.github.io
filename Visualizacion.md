@@ -20,7 +20,7 @@ Before showing the plots, some concepts that will appear on them need to be clar
 
 Note: All the plots are interactive, you can click on them to show more information.
 
-### Sunburst plot:
+### Career points distribution:
 
 Normally, riders are specialists in a certain type of races which means that most of the points they earn come from one category of one day races, stage race stage wins, general classifications or individual time trials. The goal of the plot is to help to classify the more balanced riders by showing the UCI points they earn by category and to provide an extra breakdown of those UCI points.
 
@@ -45,6 +45,6 @@ Some riders are still specialists in their fields, for example, a pure sprinter 
 
 {% include Bissegger_sb.html %}
 
-{% include MvdP_sb_sb.html %}
+{% include MvdP_sb.html %}
 
 {% include Landa_sb.html %}
