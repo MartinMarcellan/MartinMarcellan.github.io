@@ -31,7 +31,6 @@ Peter Sagan decided to end his road cycling career at the end of the 2023 season
 The best rider in the world, Tadej Pogacar, is a complete rider, he can win in almost any field, so his point distribution plot is quite balanced.
 
 {% include Pogacar_sb.html %}
-*pie de foto*
 
 In the current peloton there are many other riders that can win in many fields, such as Remco Evenepoel or Primoz Roglic.
 
@@ -43,8 +42,16 @@ Some riders are still specialists in their fields, for example, a pure sprinter 
 
 {% include Philipsen_sb.html %}
 
+As a sprint specialist, Philipsen’s most points come from one day races and stage wins, most of them won in bunch sprints.
+
 {% include Bissegger_sb.html %}
+
+Bissegger is a clear example of a time trial specialist, almost 70% of his career points come from individual time trials.
 
 {% include MvdP_sb.html %}
 
+More than 8 out of ten of Van der Poel’s points were obtained in one day races.
+
 {% include Landa_sb.html %}
+
+Landa is a pure climber so most of his points come from general classifications.
