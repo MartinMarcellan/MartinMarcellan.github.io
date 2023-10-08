@@ -26,25 +26,25 @@ Normally, riders are specialists in a certain type of races which means that mos
 
 Peter Sagan decided to end his road cycling career at the end of the 2023 season, he was classified as a one day races specialist as well as a sprinter, which allowed him to win many stages in different stage races. As shown in the plot, most of his points were won in one day races, specifically in world tour one day races. On the contrary, the team time trials were not his speciality, and he did not get almost any point compared to the other categories.
 
-{% include Sagan.html %}
+{% include Sagan_sb.html %}
 
 The best rider in the world, Tadej Pogacar, is a complete rider, he can win in almost any field, so his point distribution plot is quite balanced.
 
-** PLOT TADEJ POGACAR**
+{% include Pogacar_sb.html %}
 *pie de foto*
 
 In the current peloton there are many other riders that can win in many fields, such as Remco Evenepoel or Primoz Roglic.
 
-** PLOT REMCO EVENEPOEL**
+{% include Evenepoel_sb.html %}
 
-** PLOT PRIMOZ ROGLIC**
+{% include Roglic_sb.html %}
 
 Some riders are still specialists in their fields, for example, a pure sprinter like Jasper Philipsen, an individual time trial specialist like Stefan Bissegger, a one day race master like Mathieu van der Poel and a general classification rider like Mikel Landa.
 
-** PLOT JASPER PHILIPSEN **
+{% include Philipsen_sb.html %}
 
-** PLOT STEFAN BISSEGGER**
+{% include Bissegger_sb.html %}
 
-** PLOT MATHIU VAN DER POEL**
+{% include MvdP_sb_sb.html %}
 
-** PLOT MIKEL LANDA**
+{% include Landa_sb.html %}
