@@ -24,7 +24,7 @@ Note: All the plots are interactive, you can click on them to show more informat
 
 Normally, riders are specialists in a certain type of races which means that most of the points they earn come from one category of one day races, stage race stage wins, general classifications or individual time trials. The goal of the plot is to help to classify the more balanced riders by showing the UCI points they earn by category and to provide an extra breakdown of those UCI points.
 
-Peter Sagan decided to end his road cycling career at the end of the 2023 season, he was classified as a one day races specialist as well as a sprinter, which allowed him to win many stages in different stage races. As shown in the plot, most of his points were won in one day races, specifically in world tour one day races. On the contrary, the team time trials were not his speciality, and he did not get almost any point compared to the other categories.
+As an example, Peter Sagan decided to end his road cycling career at the end of the 2023 season, he was classified as a one day races specialist as well as a sprinter, which allowed him to win many stages in different stage races. As shown in the plot, most of his points were won in one day races, specifically in world tour one day races. On the contrary, the team time trials were not his speciality, and he did not get almost any point compared to the other categories.
 
 {% include Sagan_sb.html %}
 
