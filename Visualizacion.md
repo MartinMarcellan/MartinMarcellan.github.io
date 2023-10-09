@@ -55,3 +55,23 @@ More than 8 out of ten of Van der Poel’s points were obtained in one day races
 {% include Landa_sb.html %}
 
 Landa is a pure climber so most of his points come from general classifications.
+
+### Best teams boxplot:
+
+In statistics, an outlier is a data point that differs significantly from other observations. One way to spot them is by using a boxplot type of plot, in the resulting graphic the outlying data points will be displayed outside the box. Applied to cycling, this plot is useful to spot the best riders of each team, as they will appear as outliers. Below a plot including the best ten teams of 2023 season is showed.
+
+{% include Boxplot.html %}
+
+The plot shows as points the leaders of each team. It also shows how the team roles are distributed, for example, Alpecin-Deceuninck team has the lowest point median but is not the worst team in terms of UCI points because of the four riders that scored more than a hundred points each.
+
+The best two teams in the world, UAE Team Emirates and Jumbo-Visma have a lot of riders with more than a hundred points, but the median punctuation of the UAE riders is much higher than the median of Jumbo-Visma, thus excluding the leaders, the rest of the riders get more points, resulting in a better ranking. 
+
+### Team points breakdown:
+
+Not only riders are specialists in certain types of races, teams also can be classified using the points breakdown shown below. The size of the boxes indicates the share of points the speciality or rider regarding the team total. The first example is the team that obtained the most points in 2023, UAE Team Emirates. In this case, the GC points are the most important ones as Pogacar, Almeida and Yates reached podium positions in grand tours. One day races are the second most important speciality due to the wins of Pogacar in monuments like Il Lombardia and Ronde van Vlaanderen and the great results obtained by Hirschi in numerous races. Stage wins are and team trials are not that important as in other teams like Alpecin-Deceuninck.
+
+{% include UAE_tm.html %}
+
+Alpecin-Deceuninck is a team dedicated to one day races and to winning stages without caring about the general classification or the team trials. As it can be seen in the boxplot and in the graph below Mathieu Van der Poel and Philipsen are great one day racers with great results in Milano-Sanremo, Ronde van Vlaanderen, Paris-Roubaix and the world championship. Regarding to the stage wins, Philipsen won four stages at the Tour de France and Caden Groves won one at the Giro d’Italia and three at the Vuelta a España.
+
+{% include Alpecin_tm.html %}
