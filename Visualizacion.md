@@ -75,3 +75,39 @@ Not only riders are specialists in certain types of races, teams also can be cla
 Alpecin-Deceuninck is a team dedicated to one day races and to winning stages without caring about the general classification or the team trials. As it can be seen in the boxplot and in the graph below Mathieu Van der Poel and Philipsen are great one day racers with great results in Milano-Sanremo, Ronde van Vlaanderen, Paris-Roubaix and the world championship. Regarding to the stage wins, Philipsen won four stages at the Tour de France and Caden Groves won one at the Giro d’Italia and three at the Vuelta a España.
 
 {% include Alpecin_tm.html %}
+
+### Team racedays analysis:
+
+aqui
+
+{% include BORA_ages.html %}
+
+aqui
+
+{% include BORA_categories.html %}
+
+aqui
+
+### Historic performance analysis:
+
+aqui
+
+{% include Paves_QS.html %}
+
+aqui
+
+{% include JUMBO_oneweek.html %}
+
+aqui
+
+{% include UAE_GT.html %}
+
+aqui
+
+{% include INEOS_GT.html %}
+
+aqui
+
+{% include FRANCE_GT.html %}
+
+aqui
