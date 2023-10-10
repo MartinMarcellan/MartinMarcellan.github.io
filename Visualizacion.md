@@ -80,11 +80,11 @@ Alpecin-Deceuninck is a team dedicated to one day races and to winning stages wi
 
 aqui
 
-{% include Paves_QS.html %}{:width="100%"}
+{% include Paves_QS.html %}
 
 aqui
 
-{% include JUMBO_oneweek.html %}{:width=250px}
+![Jumbo one week races performance](/assets/images/JUMBO_oneweek.png) 
 
 aqui
 
