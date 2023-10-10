@@ -7,7 +7,7 @@ categories: jekyll update
 
 Here are the predictions for the 2023 Vuelta a España, in the graph the probability of a breakaway win is the purple coloured column and the green coloured column represents the probability of the contrary, the probability of not a breakaway win.
 
-![Imagen con el grafico de las predicciones](/assets/images/vuelta23.png)
+[![Imagen con el grafico de las predicciones](/assets/images/vuelta23.png)](/assets/images/vuelta23.png)
 
 In first sight, it seems like fewer breakaway wins are predicted in this year’s Vuelta compared with the 2023 Tour de France. 
 

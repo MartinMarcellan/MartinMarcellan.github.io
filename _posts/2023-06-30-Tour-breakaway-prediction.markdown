@@ -7,7 +7,7 @@ categories: jekyll update
 
 Here are the predictions for the 2023 Tour de France, in the graph the probability of a breakaway win is the purple coloured column and the green coloured column represents the probability of the contrary, the probability of not a breakaway win.
 
-![Imagen con el grafico de las predicciones](/assets/images/Prediccion.png)
+[![Imagen con el grafico de las predicciones](/assets/images/Prediccion.png)](/assets/images/Prediccion.png)
 
 As it can be seen, there are many stages that have high probability of a breakaway win, so stage hunters should target stages like stage 10, stage 12 or stage 14 which are the most probable ones.
 
