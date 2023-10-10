@@ -84,7 +84,7 @@ aqui
 
 aqui
 
-![Jumbo one week races performance](/assets/images/JUMBO_oneweek.png) 
+![![Jumbo one week races performance](/assets/images/JUMBO_oneweek.png)](/assets/images/JUMBO_oneweek.png)
 
 aqui
 
