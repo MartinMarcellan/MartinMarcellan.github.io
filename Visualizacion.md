@@ -76,27 +76,15 @@ Alpecin-Deceuninck is a team dedicated to one day races and to winning stages wi
 
 {% include Alpecin_tm.html %}
 
-### Team racedays analysis:
-
-aqui
-
-{% include BORA_ages.html %}
-
-aqui
-
-{% include BORA_categories.html %}
-
-aqui
-
 ### Historic performance analysis:
 
 aqui
 
-{% include Paves_QS.html %}
+{% include Paves_QS.html %}{:width="100%"}
 
 aqui
 
-{% include JUMBO_oneweek.html %}
+{% include JUMBO_oneweek.html %}{:width=250px}
 
 aqui
 
