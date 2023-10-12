@@ -24,3 +24,8 @@ The data used to adjust the model consists of all the races that have all the va
 The adjusted model has an accuracy of 82% which I believe is quite acceptable knowing that factors like the quality of the riders in the race, the strength or interest of the sprinters’ teams in keeping the breakaway controlled or the quality and quantity of the riders in the breakaway are not considered.
 
 Predictions made by this model are available in the posts section of the web, where predictions for grand tours from Tour de France 2023 are shown.
+
+| Race                 | Success rate | post                                      |
+|----------------------|--------------|-------------------------------------------|
+| Tour de France 2023  | 85%          | [Breakaway predictions](/posts/tour23/)   |
+| Vuelta a España 2023 | 79%          | [Breakaway predictions](/posts/vuelta23/) |

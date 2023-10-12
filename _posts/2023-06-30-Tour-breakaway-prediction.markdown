@@ -3,6 +3,7 @@ layout: posts
 title:  "2023 Tour de France breakaway prediction"
 date:   2023-06-30 16:20:22 +0200
 categories: jekyll update
+permalink: /posts/tour23
 ---
 
 Here are the predictions for the 2023 Tour de France, in the graph the probability of a breakaway win is the purple coloured column and the green coloured column represents the probability of the contrary, the probability of not a breakaway win.
