@@ -25,7 +25,7 @@ The adjusted model has an accuracy of 82% which I believe is quite acceptable kn
 
 Predictions made by this model are available in the posts section of the web, where predictions for grand tours from Tour de France 2023 are shown.
 
-| Race                 | Success rate | post                                      |
-|----------------------|--------------|-------------------------------------------|
-| Tour de France 2023  | 85%          | [Breakaway predictions](/posts/tour23/)   |
-| Vuelta a España 2023 | 79%          | [Breakaway predictions](/posts/vuelta23/) |
+| Race                 | Success rate | Post                                                                           |
+|----------------------|--------------|--------------------------------------------------------------------------------|
+| Tour de France 2023  | 85%          | [Breakaway predictions]({% post_url 2023-06-30-Tour-breakaway-prediction %})   |
+| Vuelta a España 2023 | 79%          | [Breakaway predictions]({% post_url 2023-08-25-Vuelta-breakaway-prediction %}) |

@@ -3,7 +3,6 @@ layout: posts
 title:  "2023 Vuelta a España breakaway prediction"
 date:   2023-08-25 16:20:22 +0200
 categories: jekyll update
-permalink: /posts/vuelta23
 ---
 
 Here are the predictions for the 2023 Vuelta a España, in the graph the probability of a breakaway win is the purple coloured column and the green coloured column represents the probability of the contrary, the probability of not a breakaway win.
