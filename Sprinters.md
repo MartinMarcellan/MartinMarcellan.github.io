@@ -4,7 +4,7 @@ title: Sprinter Ranking
 permalink: /sprinters/
 ---
 
-Sprinters are the fasters riders on the peloton, they can reach speeds of over 60 kilometres per hour to win a stage. The most common way to rank sprinters is by counting the number of victories they have in the current season. This is not a reliable way of ranking them as not all the races have the same starting lineup, what makes the popular races harder to win. In order to take this factor into consideration, an ELO ranking system has been used to make this ranking system.
+Sprinters are the fastest riders on the peloton, they can reach speeds of over 60 kilometres per hour to win a stage. The most common way to rank sprinters is by counting the number of victories they have in the current season. This is not a reliable way of ranking them as not all the races have the same starting lineup, what makes the popular races harder to win. In order to take this factor into consideration, an ELO ranking system has been used to make this ranking system.
 
 Sprinters are a type of rider that is suitable for a ranking like this, because unlike climbers, they always go flat out to win the stage without taking into consideration factors like tactics and the general classification. Fast riders usually dispute flat stages where the peloton arrives full to the finish line and a high top speed is required to win.
 
@@ -12,7 +12,7 @@ Almost half of the races throughout the season end in a bunch sprint, so a lot o
 
 Most of the widely used ELO raking systems, like the one used on chess, are designed to rank by taking into account one versus one matches. The sprints are a free for all fight for the win, so another ELO algorithm needs to be used. [TrueSkill] (https://trueskill.org/) algorithm was designed by Microsoft to rank Xbox online players with the goal to make more balanced matches. 
 
-Although flat stages tend to be the easiest stages, crashes, flat tyres or bad colocation can make a sprinter miss the fight for the stage and decrease the ELO ranking. As the goal is to determine who is the best sprinter, only the first fifteen riders of each stage have been considered. The ranking also considers the importance of the races as the changes in the ranking are bigger when the race is important.
+Although flat stages tend to be the easiest stages, crashes, flat tyres or bad placement can make a sprinter miss the fight for the stage and decrease the ELO ranking. As the goal is to determine who is the best sprinter, only the first fifteen riders of each stage have been considered. The ranking also considers the importance of the races as the changes in the ranking are bigger when the race is important.
 
 With all of this said, the tables below show the sprinter ranking at the end of each season since 2021.
 
