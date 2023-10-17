@@ -50,12 +50,12 @@ With all of this said, the tables below show the sprinter ranking at the end of 
 
 | Ranking | Rider             | Rating |
 |---------|-------------------|--------|
-| 1       | Jasper Philipsen  | 174.3  |
+| 1       | Jasper Philipsen  | 174.2  |
 | 2       | Mark Cavendish    | 166.8  |
 | 3       | Mads Pedersen     | 165.4  |
 | 4       | Fabio Jakobsen    | 164.4  |
 | 5       | Wout Van Aert     | 164.3  |
-| 6       | Sam Bennett       | 162.0  |
+| 6       | Sam Bennett       | 161.5  |
 | 7       | Arnaud Demare     | 160.5  |
 | 8       | Caleb Ewan        | 159.2  |
 | 9       | Dylan Groenewegen | 158.5  |
