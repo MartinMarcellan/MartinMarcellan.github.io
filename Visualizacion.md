@@ -22,7 +22,7 @@ Note: All the plots are interactive, you can click on them to show more informat
 
 ### Career points distribution
 
-Normally, riders are specialists in a certain type of races which means that most of the points they earn come from one category of one day races, stage race stage wins, general classifications or individual time trials. The goal of the plot is to help to classify the more balanced riders by showing the UCI points they earn by category and to provide an extra breakdown of those UCI points.
+Normally, riders are specialists in a certain type of races, which means that most of the points they earn come from one category of one day races, stage race stage wins, general classifications or individual time trials. The goal of the plot is to help to classify the more balanced riders by showing the UCI points they earn by category and to provide an extra breakdown of those UCI points.
 
 As an example, Peter Sagan decided to end his road cycling career at the end of the 2023 season, he was classified as a one day races specialist as well as a sprinter, which allowed him to win many stages in different stage races. As shown in the plot, most of his points were won in one day races, specifically in world tour one day races. On the contrary, the team time trials were not his speciality, and he did not get almost any point compared to the other categories.
 
@@ -62,9 +62,9 @@ In statistics, an outlier is a data point that differs significantly from other 
 
 {% include Boxplot.html %}
 
-The plot shows as points the leaders of each team. It also shows how the team roles are distributed, for example, Alpecin-Deceuninck team has the lowest point median but is not the worst team in terms of UCI points because of the four riders that scored more than a hundred points each.
+The plot shows as points the leaders of each team. It also shows how the team roles are distributed, for example, Alpecin-Deceuninck team has the lowest point median but is not the worst team in terms of UCI points because of the four riders that scored more than a thousand points each.
 
-The best two teams in the world, UAE Team Emirates and Jumbo-Visma have a lot of riders with more than a hundred points, but the median punctuation of the UAE riders is much higher than the median of Jumbo-Visma, thus excluding the leaders, the rest of the riders get more points, resulting in a better ranking. 
+The best two teams in the world, UAE Team Emirates and Jumbo-Visma have a lot of riders with more than a thousand points, but the median punctuation of the UAE riders is much higher than the median of Jumbo-Visma, thus excluding the leaders, the rest of the riders get more points, resulting in a better ranking. 
 
 ### Team points breakdown
 

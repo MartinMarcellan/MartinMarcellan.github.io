@@ -10,7 +10,7 @@ Sprinters are a type of rider that is suitable for a ranking like this, because 
 
 Almost half of the races throughout the season end in a bunch sprint, so a lot of races are considered in the elaboration of the ranking. The database where the results are saved also has a binary variable that indicates if the stage finished on a bunch sprint or not. To simplify the calculations, races from 2020 and later are considered for this ranking.
 
-Most of the widely used ELO raking systems, like the one used on chess, are designed to rank by taking into account one versus one matches. The sprints are a free for all fight for the win, so another ELO algorithm needs to be used. [TrueSkill] (https://trueskill.org/) algorithm was designed by Microsoft to rank Xbox online players with the goal to make more balanced matches. 
+Most of the widely used ELO raking systems, like the one used on chess, are designed to rank by taking into account one versus one matches. The sprints are a free for all fight for the win, so another ELO algorithm needs to be used. [TrueSkill](https://trueskill.org/) algorithm was designed by Microsoft to rank Xbox online players with the goal to make more balanced matches. 
 
 Although flat stages tend to be the easiest stages, crashes, flat tyres or bad placement can make a sprinter miss the fight for the stage and decrease the ELO ranking. As the goal is to determine who is the best sprinter, only the first fifteen riders of each stage have been considered. The ranking also considers the importance of the races as the changes in the ranking are bigger when the race is important.
 

@@ -52,7 +52,7 @@ The first week of the Vuelta a España was chaotic including two stage finals ne
 
 The third stage had 56% of chances for a breakaway win but the last member of it, Lennar Kämna, was caught 4 kilometres away from the finish line by the group of favourites. I believe this error is a consequence of the chaotic team trial of the first stage, if a strong would had won it, maybe they would have not tried to keep the leaders jersey in the first week. Anyway, the model predicted an almost fifty-fifty situation, so it was difficult to be right in the prediction. 
 
-This is not the case of the second prediction error, the eight stage which it was given a clear 82% of possibilities for the breakaway. The break was numerous and had some quality climbers like Damiano Caruso, Romain Bardet and many others, but failed to reach the finish line in Xorret de Catí.
+This is not the case of the second prediction error, the eighth stage which it was given a clear 82% of possibilities for the breakaway. The break was numerous and had some quality climbers like Damiano Caruso, Romain Bardet and many others, but failed to reach the finish line in Xorret de Catí.
 
 The second week of the race featured the only individual time trial of the race and some breakaway wins which were all correctly predicted. It also featured a key stage that resulted a turning point for the rest of the Vuelta: The stage finishing at the summit of the Col du Tourmalet ended Remco Evenepoel’s GC hopes and showed the great superiority of the Jumbo-Visma riders. This would result in Remco trying to get in the break almost every day and making the breakaway probabilities change dramatically for pre-Vuelta predictors. After the Tourmalet day, Evenepoel was in the break in six of the last eight days.
 
