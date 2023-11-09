@@ -37,7 +37,7 @@ All these factors sum up to 22 different variables. Adding to the variables, som
 
 ### Results
 
-With all this said, the model has a mean error of 2.235% and a coefficient of determination of 0.967. The prediction results are not as good as they look due to the multiple factors that have not been considered. An error of 2.235% can lead to deviations of more than a minute in one hour time trials.
+With all this said, the model has a mean error of 2.198% and a coefficient of determination of 0.97. The prediction results are not as good as they look due to the multiple factors that have not been considered. An error of 2.198% can lead to deviations of more than a minute in one hour time trials.
 
 ### Ways of improvement 
 
