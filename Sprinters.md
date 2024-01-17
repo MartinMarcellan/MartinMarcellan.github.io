@@ -14,9 +14,22 @@ Most of the widely used ELO raking systems, like the one used on chess, are desi
 
 Although flat stages tend to be the easiest stages, crashes, flat tyres or bad placement can make a sprinter miss the fight for the stage and decrease the ELO ranking. As the goal is to determine who is the best sprinter, only the first fifteen riders of each stage have been considered. The ranking also considers the importance of the races as the changes in the ranking are bigger when the race is important.
 
-With all of this said, the tables below show the sprinter ranking at the end of each season since 2021.
+### Current ranking (End of 2023 season)
 
-### 2021
+| Ranking | Rider             | Rating |
+|---------|-------------------|--------|
+| 1       | Jasper Philipsen  | 174.2  |
+| 2       | Mark Cavendish    | 166.8  |
+| 3       | Mads Pedersen     | 165.4  |
+| 4       | Fabio Jakobsen    | 164.4  |
+| 5       | Wout Van Aert     | 164.3  |
+| 6       | Sam Bennett       | 161.5  |
+| 7       | Arnaud Demare     | 160.5  |
+| 8       | Caleb Ewan        | 159.2  |
+| 9       | Dylan Groenewegen | 158.5  |
+| 10      | Phil Bauhaus      | 158.3  |
+
+### Rainking at the end of 2021
 
 | Ranking | Rider            | Rating |
 |---------|------------------|--------|
@@ -31,7 +44,7 @@ With all of this said, the tables below show the sprinter ranking at the end of 
 | 9       | Nacer Bouhanni   | 160.5  |
 | 10      | Wout Van Aert    | 160.4  |
 
-### 2022
+### Rainking at the end of 2022
 
 | Ranking | Rider            | Rating |
 |---------|------------------|--------|
@@ -46,7 +59,7 @@ With all of this said, the tables below show the sprinter ranking at the end of 
 | 9       | Caleb Ewan       | 162.2  |
 | 10      | Nacer Bouhanni   | 159.9  |
 
-### 2023
+### Rainking at the end of 2023
 
 | Ranking | Rider             | Rating |
 |---------|-------------------|--------|
