@@ -29,7 +29,7 @@ Although flat stages tend to be the easiest stages, crashes, flat tyres or bad p
 | 9       | Dylan Groenewegen | 158.5  |
 | 10      | Phil Bauhaus      | 158.3  |
 
-### Rainking at the end of 2021
+### Ranking at the end of 2021
 
 | Ranking | Rider            | Rating |
 |---------|------------------|--------|
@@ -44,7 +44,7 @@ Although flat stages tend to be the easiest stages, crashes, flat tyres or bad p
 | 9       | Nacer Bouhanni   | 160.5  |
 | 10      | Wout Van Aert    | 160.4  |
 
-### Rainking at the end of 2022
+### Ranking at the end of 2022
 
 | Ranking | Rider            | Rating |
 |---------|------------------|--------|
@@ -59,7 +59,7 @@ Although flat stages tend to be the easiest stages, crashes, flat tyres or bad p
 | 9       | Caleb Ewan       | 162.2  |
 | 10      | Nacer Bouhanni   | 159.9  |
 
-### Rainking at the end of 2023
+### Ranking at the end of 2023
 
 | Ranking | Rider             | Rating |
 |---------|-------------------|--------|
