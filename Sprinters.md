@@ -14,20 +14,20 @@ Most of the widely used ELO raking systems, like the one used on chess, are desi
 
 Although flat stages tend to be the easiest stages, crashes, flat tyres or bad placement can make a sprinter miss the fight for the stage and decrease the ELO ranking. As the goal is to determine who is the best sprinter, only the first fifteen riders of each stage have been considered. The ranking also considers the importance of the races as the changes in the ranking are bigger when the race is important.
 
-### Current ranking (End of January 2024)
+### Current ranking (End of February 2024)
 
 | Ranking | Rider             | Rating |
 |---------|-------------------|--------|
 | 1       | Jasper Philipsen  | 174.2  |
-| 2       | Mark Cavendish    | 166.8  |
-| 3       | Mads Pedersen     | 165.4  |
-| 4       | Fabio Jakobsen    | 164.4  |
-| 5       | Wout Van Aert     | 164.3  |
-| 6       | Sam Bennett       | 161.5  |
-| 7       | Arnaud Demare     | 160.1  |
-| 8       | Dylan Groenewegen | 158.4  |
-| 9       | Tim Merlier       | 158.0  |
-| 10      | Kaden Groves      | 158.0  |
+| 2       | Mark Cavendish    | 166.4  |
+| 3       | Mads Pedersen     | 164.8  |
+| 4       | Wout Van Aert     | 163.4  |
+| 5       | Fabio Jakobsen    | 161.7  |
+| 6       | Sam Bennett       | 160.1  |
+| 7       | Arnaud Demare     | 159.1  |
+| 8       | Tim Merlier       | 158.9  |
+| 9       | Dylan Groenewegen | 158.1  |
+| 10      | Caleb Ewan        | 157.9  |
 
 ### Ranking at the end of 2021
 
